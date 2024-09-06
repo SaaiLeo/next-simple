@@ -12,6 +12,7 @@
 # next.js
 /.next/
 /out/
+NEXT_PUBLIC_VAT_RATE
 
 # production
 /build
